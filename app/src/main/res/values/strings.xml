@@ -7,4 +7,9 @@
     <string name="question_text">Cats are neat.</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
+
+    <string name="correct_toast">:3</string>
+    <string name="incorrect_toast">Wow :c</string>
+
+
 </resources>
